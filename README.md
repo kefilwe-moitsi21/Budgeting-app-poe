@@ -18,14 +18,3 @@ Advanced Animation System: Using Lottie animations and dynamic icons, we've crea
 
 YouTube: https://youtu.be/rkENZvrQmQs?si=A80L0aMHWPodqQ5g
 
-ST10147766 - Tumelo Cynthia Lamola 
-Github link: https://github.com/ST10364979/Budgeting-app-poe
-
-ST10048689 - Nonhlanhla Masinga
-Github link: https://github.com/ST10364979/Budgeting-app-poe
-
-ST10388513 - Vickness Pheeha
-Github link: https://github.com/ST10364979/Budgeting-app-poe
-
-ST10364979 - Mokgadi Moitsi
-Github link: https://github.com/ST10364979/Budgeting-app-poe
